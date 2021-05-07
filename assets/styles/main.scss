@@ -1,0 +1,24 @@
+// @import '~bootstrap/dist/css/bootstrap.min.css';
+// @import '~bootstrap/dist/css/bootstrap-reboot.min.css';
+@import 'sheets/variables';
+@import 'sheets/buttons';
+@import 'sheets/fonts';
+@import 'sheets/dropdowns';
+
+.fullscreen {
+  height: 100vh;
+  width: 100vw;
+  max-height: 100%;
+}
+
+html,
+body {
+  * {
+    font-family: Cairo;
+    box-sizing: border-box;
+  }
+}
+
+html:lang(ar) {
+  direction: rtl;
+}

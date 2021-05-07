@@ -1,0 +1,29 @@
+$primary: #134e9e;
+$secondary: #ffaf00;
+$shadow: rgba(#000, 0.2);
+$colors: () !default;
+
+$colors: map-merge(
+  (
+    "primary": $primary,
+    "secondary": $secondary,
+  ),
+  $colors
+);
+
+$fonts: ("Cairo");
+$weights: (
+  Black: "900",
+  Bold: "700",
+  ExtraLight: "200",
+  Light: "300",
+  Regular: "400",
+  SemiBold: "600",
+);
+
+:root {
+  @each $name, $color in $colors {
+    --ivan-#{$name}: #{$color};
+  }
+  --ivan-shadow: #{$shadow};
+}

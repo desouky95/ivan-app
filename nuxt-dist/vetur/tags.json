@@ -1,0 +1,11 @@
+{
+  "IButton": {
+    "description": "Auto imported from components/iButton.vue"
+  },
+  "ISelect": {
+    "description": "Auto imported from components/iSelect.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  }
+}

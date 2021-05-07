@@ -1,0 +1,12 @@
+$font_path: "~/src/assets/fonts/";
+@each $font in $fonts {
+  @each $name, $weight in $weights {
+    @font-face {
+      font-family: unquote($font);
+      font-weight: $weight;
+      //   src: url("~@/assets/fonts/#{$font}-#{$name}.ttf");
+      @debug $font_path + "#{$font}-#{$name}.ttf";
+      src: url("~@/assets/fonts/#{$font}-#{$name}.ttf");
+    }
+  }
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "index___ar",
+    "path": "/ar",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d451be8"
+  },
+  {
+    "name": "destination",
+    "path": "/destination",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\destination.vue",
+    "chunkName": "pages/destination",
+    "_name": "_bb2a6470"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d451be8"
+  },
+  {
+    "name": "routes",
+    "path": "/routes",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\routes.vue",
+    "chunkName": "pages/routes",
+    "_name": "_77db3980"
+  },
+  {
+    "name": "destination___ar",
+    "path": "/ar/destination",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\destination.vue",
+    "chunkName": "pages/destination",
+    "_name": "_bb2a6470"
+  },
+  {
+    "name": "routes___ar",
+    "path": "/ar/routes",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\routes.vue",
+    "chunkName": "pages/routes",
+    "_name": "_77db3980"
+  },
+  {
+    "name": "destination___en",
+    "path": "/en/destination",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\destination.vue",
+    "chunkName": "pages/destination",
+    "_name": "_bb2a6470"
+  },
+  {
+    "name": "routes___en",
+    "path": "/en/routes",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\routes.vue",
+    "chunkName": "pages/routes",
+    "_name": "_77db3980"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Work\\\\Dev\\\\ivan-app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7d451be8"
+  }
+]
