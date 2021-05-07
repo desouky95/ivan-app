@@ -1,0 +1,1 @@
+.card{border:0!important}.card-info{padding:.5rem 1rem;font-size:1.4rem;width:100%;display:flex;justify-content:space-between;border:.1rem solid var(--ivan-primary);border-radius:.3rem;margin:.4rem 0;cursor:pointer;transition:all .2s ease-in-out}.card-info:hover{background:var(--ivan-primary);color:var(--ivan-secondary)}
