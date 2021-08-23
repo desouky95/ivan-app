@@ -5,6 +5,7 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _7d451be8 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
+const _5fc0e1fc = () => interopDefault(import('..\\pages\\checkout.vue' /* webpackChunkName: "pages/checkout" */))
 const _bb2a6470 = () => interopDefault(import('..\\pages\\destination.vue' /* webpackChunkName: "pages/destination" */))
 const _77db3980 = () => interopDefault(import('..\\pages\\routes.vue' /* webpackChunkName: "pages/routes" */))
 
@@ -24,6 +25,10 @@ export const routerOptions = {
     component: _7d451be8,
     name: "index___ar"
   }, {
+    path: "/checkout",
+    component: _5fc0e1fc,
+    name: "checkout"
+  }, {
     path: "/destination",
     component: _bb2a6470,
     name: "destination"
@@ -36,6 +41,10 @@ export const routerOptions = {
     component: _77db3980,
     name: "routes"
   }, {
+    path: "/ar/checkout",
+    component: _5fc0e1fc,
+    name: "checkout___ar"
+  }, {
     path: "/ar/destination",
     component: _bb2a6470,
     name: "destination___ar"
@@ -43,6 +52,10 @@ export const routerOptions = {
     path: "/ar/routes",
     component: _77db3980,
     name: "routes___ar"
+  }, {
+    path: "/en/checkout",
+    component: _5fc0e1fc,
+    name: "checkout___en"
   }, {
     path: "/en/destination",
     component: _bb2a6470,
